@@ -2,7 +2,7 @@
 
 **JchemoTraining** is a repository containing materials (scripts) to train on package [**Jchemo.jl**](https://github.com/mlesnoff/Jchemo.jl) and Julia (introductive training).
 
-There are two [directories](https://github.com/mlesnoff/JchemoTraining/src):
+There are two [directories](https://github.com/mlesnoff/JchemoTraining/tree/main/src):
 
 - Jchemo: Examples with Jchemo.jl
 - Misc: Miscellaneous about Julia
